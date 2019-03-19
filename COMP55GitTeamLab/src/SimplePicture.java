@@ -21,4 +21,4 @@ public class SimplePicture extends GraphicsProgram {
 		label.setColor(Color.RED);
 		add(label);
 	}
-}
+} //yes
