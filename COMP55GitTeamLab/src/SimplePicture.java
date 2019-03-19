@@ -23,5 +23,6 @@ public class SimplePicture extends GraphicsProgram {
 		add(label);
 		
 		int coolint = 5;
+		int superCoolInt = 10;
 	}
 } //yes
