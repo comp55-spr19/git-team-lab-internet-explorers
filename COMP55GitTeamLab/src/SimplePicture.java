@@ -1,4 +1,6 @@
-//comment one
+//Yo yo ppl its ya boi Radish
+//Its me again
+
 import java.awt.Color;
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
