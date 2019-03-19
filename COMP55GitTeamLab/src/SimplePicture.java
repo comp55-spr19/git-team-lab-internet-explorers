@@ -22,9 +22,6 @@ public class SimplePicture extends GraphicsProgram {
 		label.setColor(Color.RED);
 		add(label);
 		
-<<<<<<< HEAD
 		int coolint = 5;
-=======
->>>>>>> branch 'master' of https://github.com/comp55-spr19/git-team-lab-internet-explorers.git
 	}
 } //yes
