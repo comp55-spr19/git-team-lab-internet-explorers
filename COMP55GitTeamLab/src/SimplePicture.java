@@ -20,5 +20,7 @@ public class SimplePicture extends GraphicsProgram {
 		GLabel label = new GLabel("How I feel when using github hackslash", 200, 400);
 		label.setColor(Color.RED);
 		add(label);
+		
+		int coolint = 5;
 	}
 }
