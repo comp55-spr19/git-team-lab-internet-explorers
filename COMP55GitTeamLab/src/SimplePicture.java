@@ -18,10 +18,10 @@ public class SimplePicture extends GraphicsProgram {
 		GImage robot = new GImage("robot.jpg", 200, 100);
 		add(robot);
 		GLabel label = new GLabel("David is an attractive man", 200, 400);
-
+		GLabel label2 = new GLabel("p -> ¬q, True or False?",300,500);
 		label.setColor(Color.RED);
 		add(label);
-		
+		add(label2);
 		int coolint = 5;
 		int superCoolInt = 10;
 	}
